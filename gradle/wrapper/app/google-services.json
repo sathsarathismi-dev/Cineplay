@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1002849957215",
+    "firebase_url": "https://cineplay-508d8-default-rtdb.firebaseio.com",
+    "project_id": "cineplay-508d8",
+    "storage_bucket": "cineplay-508d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002849957215:android:8df1a5485c99884d4332ea",
+        "android_client_info": {
+          "package_name": "com.fbvideoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiPUCInvnQSEetIBsRCzEJA2x3AeIv8Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
